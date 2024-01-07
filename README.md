@@ -1,6 +1,6 @@
 # Child-Safety-Monitoring-Application
 
-Designed and deployed an Android/iOS app for a smart bicycle to help parents monitor their child’s safety. This was done as a Course Project alongside my fellow student Aditya Kumar. The Course was ES244: Signal, Systems and Random Processes, under the guidance of Professor Nithin V. George, IIT Gandhinagar.
+Designed and deployed an Android/iOS app for a smart bicycle to help parents monitor their child’s safety. This was done as a Course Project alongside my fellow student Aryan Sahu. The Course was ES244: Signal, Systems and Random Processes, under the guidance of Professor Nithin V. George, IIT Gandhinagar.
 
 #Link to Demonstration and Description video: https://youtu.be/UpfmnQTbhro
 
